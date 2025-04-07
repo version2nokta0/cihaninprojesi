@@ -1,0 +1,2 @@
+# cihaninprojesi
+JavaScript öğrenme yolculuğum
